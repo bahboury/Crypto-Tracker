@@ -94,18 +94,3 @@ Please follow the existing module and feature structure when adding new function
 ## 📄 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-### Tips for your Portfolio
-- Screenshots: Add a `screenshots/` folder and include 1–3 images. Show them at the top of the README:
-  ```markdown
-  ![Home Screen](screenshots/home_screen.png)
-  ```
-- GIF/Video: A short (5–10s) GIF of scrolling through the list helps recruiters quickly understand the app.
-- README Highlights: Keep the README concise, add badges (build / license), and provide a short “How it works” diagram or bulleted architecture summary.
-
-If you’d like, I can:
-- Add example Gradle snippets to automatically inject your API key into `BuildConfig`.
-- Create sample screenshots or a GIF guide for the README.
-- Generate a CONTRIBUTING.md or PR template for the repo.
