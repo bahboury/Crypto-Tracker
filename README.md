@@ -90,7 +90,3 @@ Contributions are welcome!
 - Open a pull request with a clear description and tests if applicable
 
 Please follow the existing module and feature structure when adding new functionality.
-
-## 📄 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
